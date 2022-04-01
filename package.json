@@ -1,5 +1,5 @@
 {
-  "name": "goit-node-js-1",
+  "name": "goit-node-hw-01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KamWit7/goit-node-js-1.git"
+    "url": "git+https://github.com/PawelS1988/goit-node-hw-01.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KamWit7/goit-node-js-1/issues"
+    "url": "https://github.com/PawelS1988/goit-node-hw-01/issues"
   },
-  "homepage": "https://github.com/KamWit7/goit-node-js-1#readme",
+  "homepage": "https://github.com/PawelS1988/goit-node-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
